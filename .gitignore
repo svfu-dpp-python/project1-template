@@ -1,0 +1,12 @@
+# Настройки IDE
+.idea/
+.vscode/
+
+# Библиотеки Python
+venv/
+
+# Байт-код Python
+*.pyc
+
+# Токен
+token.txt
